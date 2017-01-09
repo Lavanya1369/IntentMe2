@@ -26,7 +26,7 @@ TextView e3;
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method stub
+
 
                 Intent intent = new Intent(Intent.ACTION_MAIN);
                 intent.addCategory(Intent.CATEGORY_HOME);
